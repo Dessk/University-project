@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\source\repos\Visualizer\Visualizer\main.c(9,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Visualizer.vcxproj -> C:\Users\User\source\repos\Visualizer\Debug\Visualizer.exe
